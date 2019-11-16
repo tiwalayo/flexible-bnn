@@ -1,0 +1,6 @@
+torch
+pyro-ppl
+scipy
+numpy
+matplotlib
+jupyter-notebook
