@@ -4,3 +4,4 @@ scipy
 numpy
 matplotlib
 jupyter-notebook
+pymc3
