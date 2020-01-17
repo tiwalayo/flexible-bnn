@@ -2,11 +2,6 @@
 
 This is a very simple two-notebook tutorial comparing a traditional neural network consisting of only 2 layers and a Bayesian neural network again with the same structure. The task is to classify the well-known iris dataset. This repository demonstrates the subtle differences and shows how to train/develop your own Bayesian neural network. 
 
-I am also gradually adding other stuff related to probabilistic programming under the `pyro` subdirectory. Those are mainly tutorials that act as a resource and reference for my understanding and future implementation. 
-
-Current examples: 
-
-- [x] Monte Carlo Markov Chain and Mean Field VI 
 
 ## Getting Started
 
@@ -33,11 +28,7 @@ In terms of literature on Bayesian neural networks, I strongly recommend Zoubin 
 
 ## Contributing
 
-Any contributions are warmly welcome, I am planning on adding code also for:
-
-- [ ] Convolutional neural network
-- [ ] Regression
-
+Any contributions are warmly welcome.
 
 ## Author
 
@@ -45,5 +36,5 @@ Any contributions are warmly welcome, I am planning on adding code also for:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
