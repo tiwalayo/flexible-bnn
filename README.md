@@ -1,6 +1,6 @@
 # Flexible posteriors for Bayesian deep learning
 
-This repo holds the code associated with the ideas I discuss in my post [Flexible posteriors for Bayesian deep learning](http://web.mit.edu/tiwa/www/musings/1-flexible.html). For the general framework, I extended [@martinferianc](https://github.com/martinferianc/BayesianNeuralNets)'s basic BNN architecture to accomodate the different types of networks I discuss in my post, using the same approaches described in the article. For the Kumaraswamy and NN-parameterized Bayesian networks, I use uniform priors.
+This repo holds the code associated with the ideas I discuss in my post [Flexible posteriors for Bayesian deep learning](http://web.mit.edu/tiwa/www/musings/1-flexible.html). For the general framework, I extended [@martinferianc](https://github.com/martinferianc/BayesianNeuralNets)'s basic BNN architecture to accomodate the different types of networks I discuss in my post, using the same approaches outlined in the post. For the Kumaraswamy and NN-parameterized Bayesian networks, I use uniform priors.
 
 ## Structure
 
