@@ -68,6 +68,9 @@ def profile(model, args, logging):
       with Profile(model_copy, use_cuda =True) as prof:
         model_copy(x)
       logging.info(prof) 
+    
+    del model_copy
+    return
 
     logging.info("## Profiling report on a CPU ##") 
     cpu_model = model_copy.cpu()
